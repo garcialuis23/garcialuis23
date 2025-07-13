@@ -99,7 +99,7 @@ Outside of technology, 💜 I love streaming on Twitch, 🎮 playing video games
 <a href="https://instagram.com/luuis__23" target="blank">
   <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luuis__23" />
 </a>
-<a href="mailto:garciadiazluis23@gmail.com" target="blank">
+<a href="mailto:garciadiazluis23@gmail.com?subject=Hello%20Luis!&body=Hi%20Luis,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0D%0A%0D%0ABest%20regards," target="blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="garciadiazluis23@gmail.com" />
 </a>
 
