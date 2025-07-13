@@ -1,5 +1,5 @@
 <h1 align="center"> 
-<b>Hola, soy Luis García </b>
+<b>HI, I'm Luis García </b>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align = "center">
@@ -10,20 +10,20 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-## Sobre mi
+## About me
 
-Soy un programador junior full stack, apasionado por enfrentar nuevos retos y nunca dejar de aprender. Actualmente trabajo en Sexta Dimension, una empresa especializada en el desarrollo de software a medida, mientras amplío mis conocimientos cursando un máster en Big Data e Inteligencia Artificial.
+I am a junior full-stack programmer, passionate about facing new challenges and never stopping learning. I currently work at Sexta Dimension, a company specialized in custom software development, while expanding my knowledge by pursuing a master's degree in Big Data and Artificial Intelligence.
 
-👯 Tengo muchas ganas de colaborar en proyectos de código abierto.
-✔ Pregúntame sobre cualquier cosa, estoy encantado de ayudar.
+👯 I'm eager to collaborate on open source projects.
+✔ Ask me about anything, I'm happy to help.
 
-Fuera de la tecnología, 💜 me encanta el streaming en Twitch, 🎮 jugar a videojuegos, 🎵 escuchar música y 📖 leer libros de ciencia.
+Outside of technology, 💜 I love streaming on Twitch, 🎮 playing video games, 🎵 listening to music, and 📖 reading science books.
 
 ---
 
 ## My Skills Include
 
-### 📋 Languages
+### 📋 Programming Languages
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -60,7 +60,7 @@ Fuera de la tecnología, 💜 me encanta el streaming en Twitch, 🎮 jugar a vi
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
 
-### 💻 IDE 
+### 💻 IDEs
 
 <p>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
@@ -105,7 +105,8 @@ Fuera de la tecnología, 💜 me encanta el streaming en Twitch, 🎮 jugar a vi
 
 ---
 
-## Github stats:
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=garcialuis23&show_icons=true&theme=tokyonight&hide_border=true&locale=en" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=garcialuis23&theme=material-palenight"/>
