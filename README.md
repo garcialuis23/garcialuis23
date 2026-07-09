@@ -12,7 +12,7 @@ HI, I'm Luis García
 
 ## About me
 
-I am a junior full-stack programmer, passionate about facing new challenges and never stopping learning. I currently work at Sexta Dimension, a company specialized in custom software development, while expanding my knowledge by pursuing a master's degree in Big Data and Artificial Intelligence.
+I am a Data Engineer & Backend Developer, passionate about facing new challenges and never stopping learning. I currently work at NaturalSoft SL building and maintaining ETL pipelines and optimizing relational databases, while expanding my knowledge by pursuing a master's degree in Big Data and Artificial Intelligence at Escuela STEM Granada.
 
 👯 I'm eager to collaborate on open source projects.
 ✔ Ask me about anything, I'm happy to help.
@@ -45,12 +45,23 @@ Outside of technology, 💜 I love streaming on Twitch, 🎮 playing video games
   <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
   <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
+### 🧮 Data Engineering & ML
+
+<p>
+  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ### 💾 Databases
 
