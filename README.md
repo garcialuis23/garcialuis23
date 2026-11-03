@@ -1,127 +1,76 @@
-<h1 align="center"> 
-HI, I'm Luis García
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
 
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=garcialuis23&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
+# Luis García Díaz
 
-<p align = "center">
-	<img src = "https://github.com/garcialuis23/garcialuis23/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
-</p>
+### Backend Developer & Data Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=APIs+with+Java+%26+Spring+Boot;ETL+pipelines+and+databases+in+production;From+raw+data+to+business+decisions" alt="APIs with Java & Spring Boot · ETL pipelines · From raw data to business decisions" />
+
+📍 Granada, Spain · 🏥 Currently at **NaturalSoft SL** · ✅ Open to new opportunities
+
+<a href="https://luis-garcia-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://luis-garcia-portfolio.vercel.app/CV_Luis_Garcia_Diaz.pdf"><img src="https://img.shields.io/badge/Download_CV-A78BFA?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV"/></a>
+<a href="https://www.linkedin.com/in/luis-garc%C3%ADa-d%C3%ADaz-b67175313/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:garciadiazluis23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
+
+---
 
 ## About me
 
-I am a Data Engineer & Backend Developer, passionate about facing new challenges and never stopping learning. I currently work at NaturalSoft SL building and maintaining ETL pipelines and optimizing relational databases, while expanding my knowledge by pursuing a master's degree in Big Data and Artificial Intelligence at Escuela STEM Granada.
+I build **backends and APIs with Java and Spring Boot**, and design the **ETL pipelines and databases** that feed them in production.
 
-👯 I'm eager to collaborate on open source projects.
-✔ Ask me about anything, I'm happy to help.
+I combine a solid backend foundation with specialised training in **AI and Big Data**, and experience in relational database optimisation, RESTful API integration and scalable data pipelines. I currently work in **medical software**, a field where system reliability and data quality really matter.
 
-Outside of technology, 💜 I love streaming on Twitch, 🎮 playing video games, 🎵 listening to music, and 📖 reading science books.
+**What I bring**
 
----
-
-## My Skills Include
-
-### 📋 Programming Languages
-
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
-</p>
-
-
-### 📚 Frameworks
-
-<p>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-### 🧮 Data Engineering & ML
-
-<p>
-  <img alt="Snowflake" src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black"/>
-  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### 💾 Databases
-
-<p>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="DBeaver" src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>	
-</p>
-
-### 💻 IDEs
-
-<p>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img alt="NetBeans" src="https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-  <img alt="Antigravity" src="https://img.shields.io/badge/Antigravity-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
-
-### 🤖 Artificial Intelligence and Bots
-
-<p>
-  <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img alt="GitHub Copilot" src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/>
-  <img alt="Google Gemini" src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-</p>
-
-### 🥅 Other Tools
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="XAMPP" src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white"/>
-</p>
-
+- **Backend:** API design and business logic with Spring Boot, Django and FastAPI; JWT authentication, OpenAPI docs, Docker deployments.
+- **Data:** ETL processes, data modelling and complex SQL optimisation; Medallion architectures with Snowflake, dbt and Dagster.
+- **ML:** end-to-end workflows (EDA, feature engineering, model comparison with cross-validation) using scikit-learn and Pandas.
+- **Ways of working:** agile teams, Git and Jira, CI/CD with Docker and GitHub Actions, and AI-assisted development.
 
 ---
 
-## 💬 Connect with me
+## Featured projects
 
-<a href="https://www.linkedin.com/in/luis-garc%C3%ADa-d%C3%ADaz-b67175313/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="luis-garcia-linkedin" />
-</a>
-<a href="https://instagram.com/luuis__23" target="blank">
-  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luuis__23" />
-</a>
-<a href="mailto:garciadiazluis23@gmail.com?subject=Hello%20Luis!&body=Hi%20Luis,%0D%0A%0D%0AI%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20connect.%0D%0A%0D%0ABest%20regards," target="blank">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="garciadiazluis23@gmail.com" />
-</a>
+| Project | Highlights | Stack |
+|:--|:--|:--|
+| [**Paris 2024 Medallion Pipeline**](https://github.com/garcialuis23/2024_medalists_all) | Bronze → Silver → Gold in Snowflake: star schema with dbt, deduplication and null cleanup, referential-integrity tests, Dagster orchestration and Power BI report | Snowflake · dbt · Dagster · Power BI |
+| [**context-runway**](https://github.com/garcialuis23/context-runway) | Open source tool for Claude Code: status line with remaining context and usage limits, session handoff notes and a VS Code extension with history charts. CI with tests and CodeQL | Node.js · VS Code API · GitHub Actions |
+| [**Heart Attack Prediction**](https://github.com/garcialuis23/heart-attack-prediction) | ~90% accuracy. Full EDA, clinical-variable imputation, and SVM / KNN / decision trees compared with cross-validation | Python · scikit-learn · Pandas |
+| [**Hellcorp**](https://github.com/garcialuis23/hellcorp) | ETL over 27,500+ messy records, normalised with Pandas and loaded into MySQL with referential integrity; advanced SQL on the resulting model | Python · Pandas · MySQL · SQLAlchemy |
+
+<p align="right"><a href="https://luis-garcia-portfolio.vercel.app"><b>All projects on my portfolio →</b></a></p>
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,django,php,laravel,nodejs,mysql,postgres,sqlite,sklearn,docker,git,githubactions,linux,postman,react,nextjs,ts&perline=10" alt="Tech stack icons" />
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=garcialuis23&theme=material-palenight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/garcialuis23/garcialuis23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/garcialuis23/garcialuis23/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/garcialuis23/garcialuis23/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=garcialuis23&theme=material-palenight"/>
-</p>
+**Have a backend or data project in mind?** Let's talk — <a href="mailto:garciadiazluis23@gmail.com">garciadiazluis23@gmail.com</a>
+
+<sub>Outside tech: streaming on Twitch, video games, music and science books.</sub>
+
+<img src="https://komarev.com/ghpvc/?username=garcialuis23&style=flat-square&color=A78BFA&label=profile+views" alt="Profile views"/>
+
+</div>
